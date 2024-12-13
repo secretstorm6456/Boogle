@@ -1,0 +1,132 @@
+body {
+background-color: #202124;
+background-size: cover;
+}
+.google {
+text-align: center;
+width: 100%;
+margin-top: 100px;
+position: fixed;
+}
+.google_img {
+width: 300px;
+margin-bottom: 20px;
+}
+.search {
+text-align: center;
+}
+.input {
+width: 500px;
+background-color: #4d5156;
+height: 30px;
+border-color: #4d5156;
+border-style: solid;
+font-size: 20px;
+color: white;
+position: relative;
+padding-top: 3px;
+font-family: "Pixelify Sans", serif;
+}
+.button1 {
+background-color: #303134;
+width: 150px;
+text-align: center;
+margin: 10px;
+height: 40px;
+border-radius: 5px;
+color: white;
+border-color: #303134;
+font-size: 17px;
+font-family: "Pixelify Sans", serif;
+border-style: solid;
+}
+.button1:hover {
+border-color: white;
+border-width: 1px;
+}
+.button1:active {
+border-color: white;
+border-width: 1px;
+width: 140px;
+}
+.button2 {
+background-color: #303134;
+width: 190px;
+text-align: center;
+margin: 10px;
+height: 40px;
+border-radius: 5px;
+color: white;
+border-color: #303134;
+font-size: 17px;
+font-family: "Pixelify Sans", serif;
+border-style: solid;
+}
+.button2:hover {
+border-color: white;
+border-width: 1px;
+}
+.textbox {
+height: 50px;
+background-color: #4d5156;
+width: 700px;
+margin-left: auto;
+margin-right: auto;
+border-radius: 30px;
+text-align: center;
+}
+.search_img {
+}
+.box {
+height: 50px;
+width: 650px;
+margin-left: auto;
+margin-right: auto;
+background-color: #4d5156;
+}
+.material-icons {
+color: darkgrey;
+margin-top: 10px;
+margin: 10px;
+}
+.top_text {
+color: white;
+}
+.header_img {
+width: 30px;
+margin-left: 96%;
+margin-bottom: auto;
+margin-top: auto;
+position: absolute;
+}
+header {
+background-color: #202124;
+height: 50px;
+padding-top: 5px;
+}
+.text_1 {
+color: white;
+margin-bottom: auto;
+margin-top: auto;
+margin-left: 10px;
+font-size: 30px;
+font-family: cursive;
+position: absolute;
+}
+.text_2 {
+color: white;
+margin-bottom: auto;
+margin-top: auto;
+margin-left: 120px;
+font-size: 30px;
+font-family: cursive;
+position: absolute;
+}
+.footer {
+position: fixed;
+background-color: black;
+height: 40px;
+}
+.div_header {
+position: relative;
+}
